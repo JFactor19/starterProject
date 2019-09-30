@@ -1,0 +1,4 @@
+/* Add custom css rules here. Use !important to override the bootstrap styles.*/
+body {
+  background-color: gray;
+  color: white; }
